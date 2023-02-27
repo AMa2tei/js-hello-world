@@ -4,5 +4,6 @@
 //
 
 export function hello() {
+  console.log('Hello i add a new msg')
   return 'Hello, World!';
 }
